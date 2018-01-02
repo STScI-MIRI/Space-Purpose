@@ -27,7 +27,7 @@ All members are required to use two-factor authentication when working
 with repositories within the STScI-MIRI space.
 
 Linked Data Directories
-==================
+=======================
 
 Since github is not an appropriate location for large data files, a data directory has been set up
 on central store at /ifs/jwst/wit/miri/gitdata/STScI-MIRI/ that may be used for input/output 
